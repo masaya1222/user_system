@@ -1,0 +1,23 @@
+h1{
+color: black;
+font-size: 200%;
+text-align: center;
+}
+
+nav{
+background-color: black;
+text-align: center;
+margin-left: 5%;
+margin-right: 5%;
+}
+
+a{
+color: white;
+font-size: 150%;
+text-decoration: none;
+}
+
+main{
+text-align: center;
+font-size: 180%;
+}

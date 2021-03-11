@@ -1,0 +1,33 @@
+h1{
+color: black;
+font-size: 200%;
+text-align: center;
+}
+
+nav{
+background-color: black;
+text-align: center;
+margin-left: 5%;
+margin-right: 5%;
+}
+
+a{
+color: white;
+font-size: 150%;
+text-decoration: none;
+}
+
+h2{
+color: black;
+font-size: 150%;
+text-align: center;
+}
+
+main{
+text-align: center;
+
+}
+
+footer{
+text-align: center;
+}
